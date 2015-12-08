@@ -1,2 +1,3 @@
 # gitskills
- git learning
+hi I love coding
+git learning
