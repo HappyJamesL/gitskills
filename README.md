@@ -1,6 +1,2 @@
-# gitskills
-git learning
-
- hard work
-hi I love coding
-`
+Git学习
+http://git-scm.com/book/zh/v2
